@@ -10,9 +10,9 @@
 # File Description
 | File | Temperature | Templatizing Material | Templatizing Material Size (Angstrom) | Oligomer Sequence	| Key Endpoint	| Start Frame	| End Frame
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 0401GE0606 | 303 | Graphene | 6x6x6 | AUA CG A | “Oligomer bridging” via carbon sheet structures | 240 | 496
-| 0201CNT1512 | 303 | Carbon Nanotube | 15x15x15 | AUA CG A AUA CG A | Oligomer attachment to carbon nanotube | 
-| 0423GE0806 | 350 | Graphene | 8x8x8 | AUA CG A | Detachment of a dimer from a 5-mer oligonucleotide complex comprised a dimer and a trimer | 
+| 0401GE0606 | 303 | Graphene | 6x6x6 | AUA CG A | - “Oligomer bridging” via carbon sheet structures -  Dimer attachment and detachment| - 240 - 115 | 496
+| 0201CNT1512 | 303 | Carbon Nanotube | 15x15x15 | AUA CG A AUA CG A | Oligomer attachment to carbon nanotube | 100 | 1000
+| 0423GE0806 | 350 | Graphene | 8x8x8 | AUA CG A | Detachment of a dimer from a 5-mer oligonucleotide complex comprised a dimer and a trimer | 100 | 130
 | 0129GE1006 | 303 | Graphene | 10x10x10 | AUA CG A | Two oligonucleotides bonding to a graphene sheet. The dimers are in close proximity and could potentially lead to double-strandedness in future frames. | 20 | 58
 | 0131GI1006 | 303 | Graphite | 10x10x10 | AUA CG A | 1 oligonucleotide bonding to the surface the other bonding to the side then translating to the surface of the graphite sheet | 240 | 510
 | 0114GE2012 | 373 | Graphene | 20x20x20 | AUA CG A AUA CG A | Translating across surface of graphene | 28 | 60
