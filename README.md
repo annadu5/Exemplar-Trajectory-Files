@@ -7,8 +7,16 @@
 - [0131GI1006](https://annadu.s3.amazonaws.com/charmm/pdb/GI10_8WB_TM_3OM__charmm_openmm__128_graphite_helical_step48.pdb)
 - [0114GE2012](https://annadu.s3.amazonaws.com/charmm/dcd/graphene_20x20x20_6mers__charmm_openmm__all-dcd-6.dcd)
 
+# How to access the trajectory files
+## Requirements
+- VMD 1.9.4
+## Instructions
+1. Load a single PDB setup file, then the corresponding DCD trajectory file into VMD by clicking New Molecule > Browse > [find the PDB in file explorer] > Load > [find the DCD in file explorer > Load
+2. Click Graphics, then type "bonded not water" to only view the non-water molecules.
+3. For ease of use, change Trajectory Smoothing to 15 and Representations to Bonds.  
+
 # File Description
-| File | Temperature | Templatizing Material | Templatizing Material Size (Angstrom) | Oligomer Sequence	| Key Endpoint	| Start Frame	| End Frame
+| File | Temperature | Templatizing Material | Templatizing Material Size (Angstrom) | Oligomer Sequence	| Key Endpoint	| Endpoint Start Frame	| EndpointEnd Frame
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 0401GE0606 | 303 | Graphene | 6x6x6 | AUA CG A | Oligomer bridging via carbon sheet structures, with RNA dimers and trimers forming bonds on both sides of the graphene templatizing material. This simulation also demonstrated  elongation, where multiple oligonucleotides formed a Van der Waals bond along the sugar phosphate backbone, showing the possibility for the formation of long chain oligonucleotides. | 240 | 496
 | 0201CNT1512 | 303 | Carbon Nanotube | 15x15x15 | AUA CG A AUA CG A | Oligomer attachment and translation on the surface carbon nanotube. The oligonucleotides form in a parallel manner to the surface of the CNT, thus showing that, like montmorillonite, CNT on its own, with a large, flat surface, is not an ideal templatizing material to facilitate polymer growth. | 100 | 1000
