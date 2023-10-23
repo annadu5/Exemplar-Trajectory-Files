@@ -1,5 +1,5 @@
 # DCD Trajectory Files
-
+CHARMM files are stored in the [DCD file format](https://userguide.mdanalysis.org/stable/formats/reference/dcd.html)
 - [0401GE0606](https://annadu.s3.amazonaws.com/charmm/dcd/aua_cg_a_6x6x6_ge__charmm_openmm__all-dcd-95.dcd)
 - [0201CNT1512](https://annadu.s3.amazonaws.com/charmm/dcd/CNT_15WB_6M__charmm_openmm__all-dcd-100.dcd)
 - [0423GE0806](https://annadu.s3.amazonaws.com/charmm/dcd/detach_test_8x8x8_3_TEMP335K__charmm_openmm__all-dcd-37_1-335k_11-350k_14-360k.dcd)
