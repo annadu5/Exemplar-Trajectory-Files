@@ -4,22 +4,22 @@ The trajectory files stored in this repo are the molecular dynamics simulation r
 ## Animation Examples
 
 #### oligonucleotides rapidly bonded with Graphene sheets through Van der Waals
-![Rapid Bonding](gif/Graphene_Rapid_VDW_Bonding.gif)
+![Rapid Bonding](gif/Graphene_Rapid_VDW_Bonding_loop.gif)
 
 #### Bonding with Carbon Nanotubes(CNT)
-![CNT](gif/CNT.gif)
+![CNT](gif/CNT_loop.gif)
 
 #### Multiple oligomer bonding
-![Multiple Bonding](gif/Graphene_Multiple_Bonding.gif)
+![Multiple Bonding](gif/Graphene_Multiple_VDW_Bonding_loop.gif)
 
 #### Bridging
-![Bridging](gif/bridge_and_translate_clean-35s.gif)
+![Bridging](gif/bridge_and_translate_clean-35s_loop.gif)
 
 #### Separation of oligomers
-![Oligo Separation](gif/oligo_separation_clean.gif)
+![Oligo Separation](gif/oligo_separation_clean_loop.gif)
 
 #### Detachment
-![Detachment](gif/Detachment.gif)
+![Detachment](gif/Detachment_loop.gif)
 
 ## DCD Trajectory Files
 CHARMM files are stored in the [DCD file format](https://userguide.mdanalysis.org/stable/formats/reference/dcd.html)
