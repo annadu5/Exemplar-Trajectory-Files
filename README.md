@@ -3,22 +3,22 @@ The trajectory files stored in this repo are the molecular dynamics simulation r
 
 ## Animation Examples
 
-- oligonucleotides rapidly bonded with Graphene sheets through Van der Waals
+#### oligonucleotides rapidly bonded with Graphene sheets through Van der Waals
 ![Rapid Bonding](gif/Graphene_Rapid_VDW_Bonding.gif)
 
-- Bonding with Carbon Nanotubes(CNT)
+#### Bonding with Carbon Nanotubes(CNT)
 ![CNT](gif/CNT.gif)
 
-- Multiple bonding
+#### Multiple oligomer bonding
 ![Multiple Bonding](gif/Graphene_Multiple_Bonding.gif)
 
-- Bridging
+#### Bridging
 ![Bridging](gif/bridge_and_translate_clean-35s.gif)
 
-- Separation of oligomers
+#### Separation of oligomers
 ![Oligo Separation](gif/oligo_separation_clean.gif)
 
-- Detachment
+#### Detachment
 ![Detachment](gif/Detachment.gif)
 
 ## DCD Trajectory Files
