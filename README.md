@@ -39,6 +39,7 @@ CHARMM files are stored in the [DCD file format](https://userguide.mdanalysis.or
 3. For ease of use, change Trajectory Smoothing to 15 and Representations to Bonds.  
 
 ## File Description
+
 | File | Temperature | Templatizing Material | Templatizing Material Size (Angstrom) | Oligomer Sequence	| Key Endpoint	| Endpoint Start Frame	| EndpointEnd Frame
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 0401GE0606 | 303 | Graphene | 6x6x6 | AUA CG A | Oligomer bridging via carbon sheet structures, with RNA dimers and trimers forming bonds on both sides of the graphene templatizing material. This simulation also demonstrated  elongation, where multiple oligonucleotides formed a Van der Waals bond along the sugar phosphate backbone, showing the possibility for the formation of long chain oligonucleotides. | 240 | 496
